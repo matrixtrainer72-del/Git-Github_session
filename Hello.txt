@@ -1,1 +1,2 @@
 Welcome to Git/Github Session.
+today we learn about How to create Github account and How to use git commands.
